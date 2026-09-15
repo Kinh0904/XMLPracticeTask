@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student id="SV01">
+        <name>Nguyen Van An</name>
+        <age>20</age>
+        <email>kinhmlo0904@gmail.com</email>
+        <major>Computer Science</major>
+    </student>
+
+    <student id="SV02">
+        <name>Tran Thi Binh</name>
+        <age>21</age>
+        <email>binh@gmail.com</email>
+        <major>Information Technology</major>
+    </student>
+
+    <student id="SV03">
+        <name>Le Van Cuong</name>
+        <age>19</age>
+        <email>cuong@gmail.com</email>
+        <major>Software Engineering</major>
+    </student>
+</students>
