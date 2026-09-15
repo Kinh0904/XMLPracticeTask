@@ -1,0 +1,7 @@
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\UniVS\126\XML\KinhTestPJ\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
