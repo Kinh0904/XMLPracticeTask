@@ -1,16 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UniVS\\126\\XML\\KinhTestPJ\\StudentManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\kinhsenpai\\source\\repos\\Kinh0904\\XMLPracticeTask\\StudentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE91D1E6-89C1-4DA7-A70B-18A98D6893C8}|StudentManagement\\StudentManagement.csproj|d:\\univs\\126\\xml\\kinhtestpj\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE91D1E6-89C1-4DA7-A70B-18A98D6893C8}|StudentManagement\\StudentManagement.csproj|c:\\users\\kinhsenpai\\source\\repos\\kinh0904\\xmlpracticetask\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE91D1E6-89C1-4DA7-A70B-18A98D6893C8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StudentManagement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE91D1E6-89C1-4DA7-A70B-18A98D6893C8}|StudentManagement\\StudentManagement.csproj|d:\\univs\\126\\xml\\kinhtestpj\\studentmanagement\\studentmanagement\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +23,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentManagement",
-              "DocumentMoniker": "D:\\UniVS\\126\\XML\\KinhTestPJ\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\kinhsenpai\\source\\repos\\Kinh0904\\XMLPracticeTask\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
-              "ToolTip": "D:\\UniVS\\126\\XML\\KinhTestPJ\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "C:\\Users\\kinhsenpai\\source\\repos\\Kinh0904\\XMLPracticeTask\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
               "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-15T11:22:44.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T11:22:44.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UniVS\\126\\XML\\KinhTestPJ\\StudentManagement\\StudentManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kinhsenpai\\source\\repos\\Kinh0904\\XMLPracticeTask\\StudentManagement\\StudentManagement\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
-              "ToolTip": "D:\\UniVS\\126\\XML\\KinhTestPJ\\StudentManagement\\StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\kinhsenpai\\source\\repos\\Kinh0904\\XMLPracticeTask\\StudentManagement\\StudentManagement\\Program.cs",
               "RelativeToolTip": "StudentManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwGgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T10:55:53.877Z",
               "EditorCaption": ""
